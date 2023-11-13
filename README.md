@@ -2,7 +2,7 @@
 
 ## :8ball: About
 
-In this project, I'm using Cinema 4D and combining it with 3D models and an interactive AR to promote earbuds on a website.
+In this project, I'm using Cinema 4D and combining it with 3D models and an interactive AR to promote earbuds on a promotional website. This assignment not only challenges students' design and 3D modeling skills but also emphasizes the importance of effective presentation and user engagement on the web.
 
 ## :computer: Technologies
 
@@ -12,6 +12,7 @@ I developed this project using the following technologies:
 - JavaScript
 - SASS
 - Visual Studio Code
+- Cinema 4D
 
 ## :memo: License
 

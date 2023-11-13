@@ -2,7 +2,7 @@
 
 ## :8ball: About
 
-This is a starter page for initializing the Earbuds Promotional Page Project. What has been done is a responsive page using grid.css with placeholder content that will accurately reflect the final assets.
+In this project, I'm using Cinema 4D and combining it with 3D models and an interactive AR to promote earbuds on a website.
 
 ## :computer: Technologies
 
